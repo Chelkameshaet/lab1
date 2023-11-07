@@ -1,0 +1,3 @@
+﻿  Prokofev laba.cpp
+C:\Users\Пользователь\Desktop\Prokofev laba\Prokofev laba\Prokofev laba.cpp(11,25): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Prokofev laba.vcxproj -> C:\Users\Пользователь\Desktop\Prokofev laba\x64\Debug\Prokofev laba.exe
